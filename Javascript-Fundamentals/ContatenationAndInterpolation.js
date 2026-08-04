@@ -1,4 +1,4 @@
-//Contatenation
+//Concatenation
 
 var company='Servion Global Solution'
 var selfintro='My name is Vijay i work at ' + company
